@@ -1,0 +1,16 @@
+2023-04-02/18:41:17		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 30
+
+2023-04-10/19:50:09		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 30
+
+2023-04-10/19:51:44		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 30
+
+2023-04-10/19:52:57		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 30
+
+2023-04-10/19:53:15		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 30
+
+2023-04-10/19:53:38		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 30
+
+2023-04-10/19:53:48		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 30
+
+2023-04-10/19:53:56		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 30
+

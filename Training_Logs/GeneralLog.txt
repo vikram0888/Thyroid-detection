@@ -1,0 +1,10 @@
+2023-04-10/19:50:10		BadRaw directory deleted before starting validation!!!
+2023-04-10/19:50:10		GoodRaw directory deleted successfully!!!
+2023-04-10/19:51:44		BadRaw directory deleted before starting validation!!!
+2023-04-10/19:51:44		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Training_Raw_files_validated/Good_Raw/hypothyroid_0211198_0102062112000.csv'
+2023-04-10/19:52:57		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Training_Raw_files_validated/Good_Raw/hypothyroid_0211198_0102062112002.csv'
+2023-04-10/19:53:15		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Training_Raw_files_validated/Good_Raw/hypothyroid_0211198_0102062112002.csv'
+2023-04-10/19:53:38		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Training_Raw_files_validated/Good_Raw/hypothyroid_0211198_0102062112003.csv'
+2023-04-10/19:53:48		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Training_Raw_files_validated/Good_Raw/hypothyroid_0211198_0102062112003.csv'
+2023-04-10/19:53:56		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Training_Raw_files_validated/Good_Raw/hypothyroid_0211198_0102062112003.csv'
+2023-04-10/20:01:59		GoodRaw directory deleted successfully!!!
