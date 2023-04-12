@@ -14,7 +14,7 @@ class Model_Finder:
         self.file_object = file_object
         self.logger_object = logger_object
         self.clf = RandomForestClassifier()
-        self.xgb = XGBClassifier(objective='binary:logistic')
+        self.xgb = XGBClassifier(objective='multi:softprob')
 
     def get_best_params_for_random_forest(self,train_x,train_y):
         """
