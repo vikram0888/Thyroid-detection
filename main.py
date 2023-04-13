@@ -100,6 +100,6 @@ def trainRouteClient():
 
 if __name__ == "__main__":
     #app.run(host='0.0.0.0', port=5000) #run in local server without debugging #http://127.0.0.1:5000/ to run in local server
-    app.run(host='0.0.0.0', port =3000,debug= True) #run in local server with debugging
+    app.run(host='0.0.0.0', port =3008,debug= True) #run in local server with debugging
 
   
