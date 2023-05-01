@@ -72,9 +72,6 @@ The final model is deployed on Heroku using Flask framework.
 ![prediction output file](https://user-images.githubusercontent.com/100748938/235406465-d4d5db8a-7568-43ee-89f1-78fa49cab3c9.PNG)
 
 
-#### Data in Cassandra Database.
-![DataInCassandraDB](https://user-images.githubusercontent.com/72372136/134202316-ef62ddc2-25f9-451e-bd34-be6c3accce4b.JPG)
-
 
 ## Project Documents
 
