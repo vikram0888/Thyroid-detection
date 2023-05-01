@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/100748938/235404067-17b499dc-2894-48db
 - Front-end: HTML, CSS 
 - Back-end: Flask framework
 - IDE: Jupyter Notebook, Pycharm & VSCode
-- Database: Cassandra 
+- Database: SQLite
 - Deployment: Locally
 
 # How to run this app 
@@ -33,10 +33,13 @@ Code is written in Python 3.7 and more. If you don't have python installed on yo
 
 - Create virtual environment - 
 ```conda create -p venv python==3.7 -y ```
+
 - Activate the environment - 
 ```conda activate venv ```
+
 - Install the packages 
 ```pip install -r requirements.txt ```
+
 - Run the app 
 ```python main.py ```
 
