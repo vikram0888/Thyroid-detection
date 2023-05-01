@@ -31,10 +31,10 @@ https://user-images.githubusercontent.com/100748938/235404067-17b499dc-2894-48db
 
 Code is written in Python 3.7 and more. If you don't have python installed on your system, click here https://www.python.org/downloads/ to install.
 
-- Create virtual environment - 
+- Create virtual environment  
 ```conda create -p venv python==3.7 -y ```
 
-- Activate the environment - 
+- Activate the environment 
 ```conda activate venv ```
 
 - Install the packages 
@@ -54,26 +54,25 @@ Link:https://archive.ics.uci.edu/ml/datasets/thyroid+disease
 
 ## Data Pre-processing
 
-- Missing values handling by Simple imputation (KNN Imputer)
-- Outliers detection and removal by boxplot and percentile methods
-- Categorical features handling by ordinal encoding and label encoding
-- Feature scaling done by Standard Scalar method
-- Imbalanced dataset handled by SMOTE
-- Drop unnecessary columns
+   - Drop columns not useful for training the model. Such columns were selected while doing the EDA.
+   - Replace the invalid values with numpy “nan” so we can use imputer on such values.
+   - Encode the categorical values
+   - Check for null values in the columns. If present, impute the null values using the KNN imputer.
+   - After imputing, handle the imbalanced dataset by using RandomOverSampler
 
 ## Model Creation and Evaluation
 
 - Various classification algorithms like Random Forest, XGBoost, KNN etc tested.
-- Random Forest, XGBoost and KNN were all performed well. XGBoost was chosen for the final model training and testing.
+- Random Forest, XGBoost and KNN were all performed well. KNN, Random Forest was chosen for the final model training and testing.
 - Hyper parameter tuning was performed using RandomizedSearchCV
 - Model performance evaluated based on accuracy, confusion matrix, classification report.
 
 
 ## Database Connection
-Cassandra database used for this project.
+SQLite database used for this project.
 
 ## Model Deployment
-The final model is deployed on Heroku using Flask framework.
+The final model is deployed locally.
 
 ## Batch File Prediction User Interface
 #### User need to upload CSV file and click Custom File Predict button for prediction to start.
@@ -99,13 +98,6 @@ The final model is deployed on Heroku using Flask framework.
 
 - Detailed Project Report: https://github.com/imkushwaha/Thyroid-Disease-Detection/blob/main/Docs/TDD_DPR.pdf
 
-
-# Author
-
-Vikram Jha: https://www.linkedin.com/in/vikram-jha-471bb2246/
-
-
-
 ## initialize git repo
 
 ```
@@ -125,3 +117,8 @@ git add .
 git commit -m "proper message"
 git push 
 ```
+
+
+# Author
+
+Vikram Jha: https://www.linkedin.com/in/vikram-jha-471bb2246/
