@@ -63,12 +63,12 @@ The final model is deployed on Heroku using Flask framework.
 
 ## Batch File Prediction User Interface
 #### User need to upload CSV file and click Custom File Predict button for prediction to start.
-![wireframe_tdd_1](https://user-images.githubusercontent.com/100748938/235405880-bcb1e01b-8b95-466d-9b8d-47f44b9017ac.PNG)
+![prediction page](https://user-images.githubusercontent.com/100748938/235406369-29435516-47f6-434e-afd6-d4251e526cce.PNG)
 
-![wireframe_tdd_2](https://user-images.githubusercontent.com/100748938/235405880-bcb1e01b-8b95-466d-9b8d-47f44b9017ac.PNG)
+![prediction file result](https://user-images.githubusercontent.com/100748938/235406410-c45f36a9-7e85-4356-97d2-888730d6105d.PNG)
 
 #### Prediction CSV file will contain index numer with type of thyroid disease patient is suffering from.
-![wireframe_tdd_3](https://user-images.githubusercontent.com/72372136/134202106-fb8e0274-ac88-4f9b-b77e-4e834d642a24.JPG)
+![prediction output file](https://user-images.githubusercontent.com/100748938/235406465-d4d5db8a-7568-43ee-89f1-78fa49cab3c9.PNG)
 
 
 #### Data in Cassandra Database.
