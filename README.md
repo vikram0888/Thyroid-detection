@@ -16,7 +16,7 @@ AWS: http://tddbulkprediction-env.eba-uqgwbduj.us-east-2.elasticbeanstalk.com/
 
 # Demo
 
-https://user-images.githubusercontent.com/72372136/134773017-d9d26150-0e68-4c2d-8627-b3a64beeac9b.mp4
+https://user-images.githubusercontent.com/100748938/235404067-17b499dc-2894-48db-91c8-feca774abef8.mp4
 
 
 
