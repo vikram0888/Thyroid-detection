@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/100748938/235404067-17b499dc-2894-48db
 - Back-end: Flask framework
 - IDE: Jupyter Notebook, Pycharm & VSCode
 - Database: Cassandra 
-- Deployment: Heroku, AWS
+- Deployment: Locally
 
 # How to run this app 
 
@@ -66,11 +66,8 @@ The final model is deployed on Heroku using Flask framework.
 ![tddone](https://user-images.githubusercontent.com/72372136/136432372-6d2b380e-8150-4393-8b88-b611f3e5a36c.JPG)
 
 ### Batch File Prediction User Interface
-#### Homepage: A very simple UI with single page. 
-![wireframe_tdd_1](https://user-images.githubusercontent.com/72372136/134201402-7c55f34a-b633-44f1-b2a3-87da79a37c47.JPG)
-
-#### User need to upload CSV file and click predict button for prediction to start.
-![wireframe_tdd_2](https://user-images.githubusercontent.com/72372136/134201675-f3a40430-cb60-4817-a21b-de65370f0e69.JPG)
+#### User need to upload CSV file and click custome file predict button for prediction to start.
+![wireframe_tdd_2](https://user-images.githubusercontent.com/100748938/235405880-bcb1e01b-8b95-466d-9b8d-47f44b9017ac.PNG)
 
 #### User can download their result by clicking download button below.
 ![wireframe_tdd_3](https://user-images.githubusercontent.com/72372136/134201925-476df9d9-7f2f-4d5b-b927-46897f5c492c.JPG)
