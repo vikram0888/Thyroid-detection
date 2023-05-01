@@ -61,7 +61,7 @@ Cassandra database used for this project.
 ## Model Deployment
 The final model is deployed on Heroku using Flask framework.
 
-### Batch File Prediction User Interface
+## Batch File Prediction User Interface
 #### User need to upload CSV file and click custome file predict button for prediction to start.
 ![wireframe_tdd_2](https://user-images.githubusercontent.com/100748938/235405880-bcb1e01b-8b95-466d-9b8d-47f44b9017ac.PNG)
 
