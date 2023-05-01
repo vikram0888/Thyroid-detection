@@ -63,7 +63,8 @@ The final model is deployed on Heroku using Flask framework.
 
 ## Batch File Prediction User Interface
 #### User need to upload CSV file and click Custom File Predict button for prediction to start.
-![prediction page](https://user-images.githubusercontent.com/100748938/235406369-29435516-47f6-434e-afd6-d4251e526cce.PNG)
+![prediction page](https://user-images.githubusercontent.com/100748938/235406552-a003167a-84c8-4e4c-b7fd-35d70f6b2da4.PNG)
+
 
 ![prediction file result](https://user-images.githubusercontent.com/100748938/235406410-c45f36a9-7e85-4356-97d2-888730d6105d.PNG)
 
