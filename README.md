@@ -34,13 +34,13 @@ Code is written in Python 3.7 and more. If you don't have python installed on yo
 - Create virtual environment  
 ```conda create -p venv python==3.7 -y ```
 
-- Activate the environment 
+- Activate the environment     
 ```conda activate venv ```
 
-- Install the packages 
+- Install the packages     
 ```pip install -r requirements.txt ```
 
-- Run the app 
+- Run the app     
 ```python main.py ```
 
 
