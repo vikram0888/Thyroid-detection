@@ -30,12 +30,16 @@ https://user-images.githubusercontent.com/100748938/235404067-17b499dc-2894-48db
 # How to run this app 
 
 Code is written in Python 3.7 and more. If you don't have python installed on your system, click here https://www.python.org/downloads/ to install.
-```
-- Create virtual environment - conda create -p venv python==3.7 -y 
-- Activate the environment - conda activate venv
-- Install the packages - pip install -r requirements.txt
-- Run the app - python run app.py
-```
+
+- Create virtual environment - 
+```conda create -p venv python==3.7 -y ```
+- Activate the environment - 
+```conda activate venv ```
+- Install the packages 
+```pip install -r requirements.txt ```
+- Run the app 
+```python main.py ```
+
 
 # Workflow
 
