@@ -28,20 +28,7 @@ def home():
 @cross_origin()
 def predictRouteClient():
     try:
-        if request.json is not None:
-            path = request.json['filepath']
-
-            pred_val = pred_validation(path)  # object initialization
-
-            pred_val.prediction_validation()  # calling the prediction_validation function
-
-            pred = prediction(path)  # object initialization
-
-            # predicting for dataset present in database
-            path, json_predictions = pred.predictionFromModel()
-            return Response("Prediction File created at !!!" + str(path) + 'and few of the predictions are ' + str(
-                json.loads(json_predictions)))
-        elif request.form is not None:
+        if request.form is not None:
             path = request.form['filepath']
 
             pred_val = pred_validation(path)  # object initialization
@@ -54,6 +41,7 @@ def predictRouteClient():
             path, json_predictions = pred.predictionFromModel()
             return Response("Prediction File created at !!!" + str(path) + 'and few of the predictions are ' + str(
                 json.loads(json_predictions)))
+
         else:
             print('Nothing Matched')
     except ValueError:
@@ -97,7 +85,6 @@ def trainRouteClient():
 
 
 if __name__ == "__main__":
-    #app.run(host='0.0.0.0', port=5000) #run in local server without debugging #http://127.0.0.1:5000/ to run in local server
-    app.run(host='0.0.0.0', port =3004,debug= True) #run in local server with debugging
+    app.run(host='0.0.0.0', port =3004,debug= True)
 
   
