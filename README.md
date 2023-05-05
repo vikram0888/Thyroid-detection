@@ -96,7 +96,7 @@ The final model is deployed locally.
 
 - Wireframe : https://github.com/vikram0888/Thyroid-detection/files/11405427/Wireframe.document.pdf
 
-- Detailed Project Report : https://github.com/imkushwaha/Thyroid-Disease-Detection/blob/main/Docs/TDD_DPR.pdf
+- Detailed Project Report : https://github.com/vikram0888/Thyroid-detection/files/11406226/Detailed.Project.Report.pdf
 
 ## initialize git repo
 
