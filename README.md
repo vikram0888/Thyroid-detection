@@ -63,7 +63,7 @@ Link:https://archive.ics.uci.edu/ml/datasets/thyroid+disease
 ## Model Creation and Evaluation
 
 - Various classification algorithms like Random Forest, XGBoost, KNN etc tested.
-- Random Forest, XGBoost and KNN were all performed well. KNN, Random Forest was chosen for the final model training and testing.
+- Random Forest, XGBoost and KNN were all performed well. XGBoost, Random Forest was chosen for the final model training and testing.
 - Hyper parameter tuning was performed using RandomizedSearchCV
 - Model performance evaluated based on accuracy, confusion matrix, classification report.
 
@@ -88,15 +88,15 @@ The final model is deployed locally.
 
 ## Project Documents
 
-- HLD: https://github.com/imkushwaha/Thyroid-Disease-Detection/blob/main/Docs/TDD_HLD_V1.0.pdf
+- HLD : https://github.com/vikram0888/Thyroid-detection/files/11405412/High.Level.Design.pdf
 
-- LLD: https://github.com/imkushwaha/Thyroid-Disease-Detection/blob/main/Docs/TDD_LLD_V1.0.pdf
+- LLD : https://github.com/vikram0888/Thyroid-detection/files/11405419/Low.Level.Design.pdf
 
-- Architecture: https://github.com/imkushwaha/Thyroid-Disease-Detection/blob/main/Docs/TDD_Architecture_V1.0.pdf
+- Architecture : https://github.com/vikram0888/Thyroid-detection/files/11405422/Architecture.Document.pdf
 
-- Wireframe: https://github.com/imkushwaha/Thyroid-Disease-Detection/blob/main/Docs/TDD_Wireframe_V1.0.pdf
+- Wireframe : https://github.com/vikram0888/Thyroid-detection/files/11405427/Wireframe.document.pdf
 
-- Detailed Project Report: https://github.com/imkushwaha/Thyroid-Disease-Detection/blob/main/Docs/TDD_DPR.pdf
+- Detailed Project Report : https://github.com/imkushwaha/Thyroid-Disease-Detection/blob/main/Docs/TDD_DPR.pdf
 
 ## initialize git repo
 
