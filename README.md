@@ -84,7 +84,8 @@ The final model is deployed locally.
 #### Prediction CSV file will contain index numer with type of thyroid disease patient is suffering from.
 ![prediction output file](https://user-images.githubusercontent.com/100748938/235406465-d4d5db8a-7568-43ee-89f1-78fa49cab3c9.PNG)
 
-
+#### Experience Letter 
+https://github.com/vikram0888/Thyroid-detection/assets/100748938/198e5f64-f542-41b5-90b5-79468fb0b4ab
 
 ## Project Documents
 
