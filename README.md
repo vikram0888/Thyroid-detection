@@ -98,6 +98,8 @@ The final model is deployed locally.
 
 - Detailed Project Report : https://github.com/vikram0888/Thyroid-detection/files/11406226/Detailed.Project.Report.pdf
 
+- Experience Letter : https://github.com/vikram0888/Thyroid-detection/files/12091222/Experience_letter_Thyroid.Disease.Detection.pdf
+
 ## initialize git repo
 
 ```
